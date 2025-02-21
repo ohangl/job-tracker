@@ -1,3 +1,5 @@
+// for this part im gonna use a random list for the job listings, 
+//i couldnt find a way to create mine and not online website that doesnt have random texts. 
 fetch("https://jsonplaceholder.typicode.com/posts")
     .then(response => response.json())
     .then(data => {
