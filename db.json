@@ -1,6 +1,7 @@
 {
     "jobs": [
         { "id": 1, "company": "Google", "position": "Software Engineer", "status": "Applied" },
-        { "id": 2, "company": "Amazon", "position": "Data Analyst", "status": "Interview" }
+        { "id": 2, "company": "Amazon", "position": "Data Analyst", "status": "Interview Scheduled" },
+        { "id": 3, "company": "Microsoft", "position": "Project Manager", "status": "Offer Received" }
     ]
 }
