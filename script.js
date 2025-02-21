@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
             if (username && password) {
                 localStorage.setItem("user", username);
                 alert("Login successful!");
-                window.location.href = "index.html";
+                window.location.href = "welcome.html"; // Redirect to Welcome Page
             } else {
                 alert("Please enter valid credentials.");
             }
